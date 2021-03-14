@@ -1,0 +1,31 @@
+{
+  "name": "imagebase64-regex",
+  "version": "1.0.0",
+  "description": "Regular expression for matching images in base64 encoded strings",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/elielodeveloper/imageBase64-regex.git"
+  },
+  "keywords": [
+    "imageBase64",
+    "regex",
+    "string"
+  ],
+  "author": {
+    "name": "Eliel Silva",
+    "email": "elielrogernic@gmail.com",
+    "url": "https://github.com/elielodeveloper"
+  },
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/elielodeveloper/imageBase64-regex/issues"
+  },
+  "homepage": "https://github.com/elielodeveloper/imageBase64-regex#readme",
+  "devDependencies": {
+    "jest": "^26.6.3"
+  }
+}
